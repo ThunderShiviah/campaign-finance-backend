@@ -1,2 +1,2 @@
-# campaign-finance-frontend
-Django frontend for Hack Oregon campaign finance project.
+# campaign-finance-backend
+Django backend for Hack Oregon campaign finance project.
